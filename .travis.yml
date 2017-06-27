@@ -36,5 +36,8 @@ android:
 deploy:
   provider: testfairy
   api-key: "aa2f450c873d306064c9e227872fab23fac448ec"
+  keystore-file: bin/mykey
+  storepass: Quark@123
   app-file: bin/AlertDialogTest.apk
   testers-groups: Bank_Sinarmas	
+  
