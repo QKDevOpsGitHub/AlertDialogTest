@@ -14,7 +14,7 @@ import android.widget.Button;
 import android.widget.Toast;
 
 public class MainActivity extends Activity {
-// testing sdfasef
+
 	private Button mainBtn;
 	
 	@Override
