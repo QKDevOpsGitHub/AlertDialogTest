@@ -40,4 +40,5 @@ deploy:
   storepass: Quark@123
   app-file: bin/AlertDialogTest.apk
   testers-groups: Bank_Sinarmas	
+  alias: testAndroid
   
